@@ -1,0 +1,22 @@
+{
+  "id": "vla-autonomy/chapter-15-capstone",
+  "title": "Chapter 15: Capstone - Complete Autonomous System",
+  "description": "Learning Objectives",
+  "source": "@site/docs/04-vla-autonomy/chapter-15-capstone.md",
+  "sourceDirName": "04-vla-autonomy",
+  "slug": "/vla-autonomy/chapter-15-capstone",
+  "permalink": "/vla-autonomy/chapter-15-capstone",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_position": 15
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 14: VLA Model Integration",
+    "permalink": "/vla-autonomy/chapter-14-vla-models"
+  }
+}

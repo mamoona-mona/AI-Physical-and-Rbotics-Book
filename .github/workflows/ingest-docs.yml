@@ -1,0 +1,38 @@
+name: Ingest Documents to Vector Store
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'docs/**/*.md'
+
+jobs:
+  ingest:
+    name: Ingest to Qdrant
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -r backend/requirements.txt
+
+      - name: Ingest documents to Qdrant
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          QDRANT_URL: ${{ secrets.QDRANT_URL }}
+          QDRANT_API_KEY: ${{ secrets.QDRANT_API_KEY }}
+        run: |
+          python scripts/ingest_docs.py docs/
+
+      - name: Notify on failure
+        if: failure()
+        run: echo "Document ingestion failed. Check Qdrant Cloud configuration."

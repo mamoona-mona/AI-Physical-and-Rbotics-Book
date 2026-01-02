@@ -1,0 +1,128 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Current",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-sim/chapter-09-isaac-sim-basics",
+              "path": "/isaac-sim/chapter-09-isaac-sim-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-sim/chapter-10-synthetic-data",
+              "path": "/isaac-sim/chapter-10-synthetic-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-sim/chapter-11-vslam",
+              "path": "/isaac-sim/chapter-11-vslam",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-sim/intro",
+              "path": "/isaac-sim/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physics-simulation/chapter-05-rigid-body-dynamics",
+              "path": "/physics-simulation/chapter-05-rigid-body-dynamics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physics-simulation/chapter-06-sensor-simulation",
+              "path": "/physics-simulation/chapter-06-sensor-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physics-simulation/chapter-07-sim-to-real",
+              "path": "/physics-simulation/chapter-07-sim-to-real",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physics-simulation/chapter-08-digital-twin",
+              "path": "/physics-simulation/chapter-08-digital-twin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physics-simulation/intro",
+              "path": "/physics-simulation/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2-fundamentals/chapter-01-ros2-architecture",
+              "path": "/ros2-fundamentals/chapter-01-ros2-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2-fundamentals/chapter-02-robot-modeling",
+              "path": "/ros2-fundamentals/chapter-02-robot-modeling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2-fundamentals/chapter-03-actions-behaviors",
+              "path": "/ros2-fundamentals/chapter-03-actions-behaviors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2-fundamentals/chapter-04-gazebo-simulation",
+              "path": "/ros2-fundamentals/chapter-04-gazebo-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2-fundamentals/intro",
+              "path": "/ros2-fundamentals/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla-autonomy/chapter-12-llm-planning",
+              "path": "/vla-autonomy/chapter-12-llm-planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla-autonomy/chapter-13-speech",
+              "path": "/vla-autonomy/chapter-13-speech",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla-autonomy/chapter-14-vla-models",
+              "path": "/vla-autonomy/chapter-14-vla-models",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla-autonomy/chapter-15-capstone",
+              "path": "/vla-autonomy/chapter-15-capstone",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla-autonomy/intro",
+              "path": "/vla-autonomy/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/",
+                "label": "Course Overview"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

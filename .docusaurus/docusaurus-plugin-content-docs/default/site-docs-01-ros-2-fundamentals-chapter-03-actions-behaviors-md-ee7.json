@@ -1,0 +1,26 @@
+{
+  "id": "ros2-fundamentals/chapter-03-actions-behaviors",
+  "title": "Chapter 3: Actions and Behavior Trees",
+  "description": "Learning Objectives",
+  "source": "@site/docs/01-ros2-fundamentals/chapter-03-actions-behaviors.md",
+  "sourceDirName": "01-ros2-fundamentals",
+  "slug": "/ros2-fundamentals/chapter-03-actions-behaviors",
+  "permalink": "/ros2-fundamentals/chapter-03-actions-behaviors",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: Robot Modeling",
+    "permalink": "/ros2-fundamentals/chapter-02-robot-modeling"
+  },
+  "next": {
+    "title": "Chapter 4: Gazebo Simulation",
+    "permalink": "/ros2-fundamentals/chapter-04-gazebo-simulation"
+  }
+}

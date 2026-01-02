@@ -1,0 +1,26 @@
+{
+  "id": "physics-simulation/chapter-08-digital-twin",
+  "title": "Chapter 8: Digital Twin Architecture",
+  "description": "Learning Objectives",
+  "source": "@site/docs/02-physics-simulation/chapter-08-digital-twin.md",
+  "sourceDirName": "02-physics-simulation",
+  "slug": "/physics-simulation/chapter-08-digital-twin",
+  "permalink": "/physics-simulation/chapter-08-digital-twin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 7: Sim-to-Real Transfer",
+    "permalink": "/physics-simulation/chapter-07-sim-to-real"
+  },
+  "next": {
+    "title": "Module 3: NVIDIA Isaac Sim",
+    "permalink": "/isaac-sim/intro"
+  }
+}

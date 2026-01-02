@@ -1,0 +1,26 @@
+{
+  "id": "ros2-fundamentals/intro",
+  "title": "Module 1: ROS 2 Fundamentals",
+  "description": "Master the Robot Operating System 2 (ROS 2) for humanoid robot control.",
+  "source": "@site/docs/01-ros2-fundamentals/intro.md",
+  "sourceDirName": "01-ros2-fundamentals",
+  "slug": "/ros2-fundamentals/intro",
+  "permalink": "/ros2-fundamentals/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Course Overview",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Chapter 1: ROS 2 Architecture",
+    "permalink": "/ros2-fundamentals/chapter-01-ros2-architecture"
+  }
+}

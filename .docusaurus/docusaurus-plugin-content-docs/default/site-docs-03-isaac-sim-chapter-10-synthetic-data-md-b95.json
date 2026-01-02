@@ -1,0 +1,26 @@
+{
+  "id": "isaac-sim/chapter-10-synthetic-data",
+  "title": "Chapter 10: Synthetic Data Generation",
+  "description": "Learning Objectives",
+  "source": "@site/docs/03-isaac-sim/chapter-10-synthetic-data.md",
+  "sourceDirName": "03-isaac-sim",
+  "slug": "/isaac-sim/chapter-10-synthetic-data",
+  "permalink": "/isaac-sim/chapter-10-synthetic-data",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 9: Isaac Sim ROS 2 Integration",
+    "permalink": "/isaac-sim/chapter-09-isaac-sim-basics"
+  },
+  "next": {
+    "title": "Chapter 11: VSLAM for Humanoids",
+    "permalink": "/isaac-sim/chapter-11-vslam"
+  }
+}

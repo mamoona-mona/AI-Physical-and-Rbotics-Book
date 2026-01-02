@@ -1,0 +1,26 @@
+{
+  "id": "physics-simulation/intro",
+  "title": "Module 2: Physics Simulation",
+  "description": "Master physics-based simulation for humanoid robots.",
+  "source": "@site/docs/02-physics-simulation/intro.md",
+  "sourceDirName": "02-physics-simulation",
+  "slug": "/physics-simulation/intro",
+  "permalink": "/physics-simulation/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: Gazebo Simulation",
+    "permalink": "/ros2-fundamentals/chapter-04-gazebo-simulation"
+  },
+  "next": {
+    "title": "Chapter 5: Rigid Body Dynamics",
+    "permalink": "/physics-simulation/chapter-05-rigid-body-dynamics"
+  }
+}

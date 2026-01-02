@@ -1,0 +1,26 @@
+{
+  "id": "isaac-sim/chapter-11-vslam",
+  "title": "Chapter 11: VSLAM for Humanoids",
+  "description": "Learning Objectives",
+  "source": "@site/docs/03-isaac-sim/chapter-11-vslam.md",
+  "sourceDirName": "03-isaac-sim",
+  "slug": "/isaac-sim/chapter-11-vslam",
+  "permalink": "/isaac-sim/chapter-11-vslam",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 10: Synthetic Data Generation",
+    "permalink": "/isaac-sim/chapter-10-synthetic-data"
+  },
+  "next": {
+    "title": "Module 4: VLA & Autonomy",
+    "permalink": "/vla-autonomy/intro"
+  }
+}

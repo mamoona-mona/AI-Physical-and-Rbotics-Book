@@ -1,0 +1,26 @@
+{
+  "id": "ros2-fundamentals/chapter-02-robot-modeling",
+  "title": "Chapter 2: Robot Modeling",
+  "description": "Learning Objectives",
+  "source": "@site/docs/01-ros2-fundamentals/chapter-02-robot-modeling.md",
+  "sourceDirName": "01-ros2-fundamentals",
+  "slug": "/ros2-fundamentals/chapter-02-robot-modeling",
+  "permalink": "/ros2-fundamentals/chapter-02-robot-modeling",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: ROS 2 Architecture",
+    "permalink": "/ros2-fundamentals/chapter-01-ros2-architecture"
+  },
+  "next": {
+    "title": "Chapter 3: Actions and Behavior Trees",
+    "permalink": "/ros2-fundamentals/chapter-03-actions-behaviors"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "physics-simulation/chapter-05-rigid-body-dynamics",
+  "title": "Chapter 5: Rigid Body Dynamics",
+  "description": "Learning Objectives",
+  "source": "@site/docs/02-physics-simulation/chapter-05-rigid-body-dynamics.md",
+  "sourceDirName": "02-physics-simulation",
+  "slug": "/physics-simulation/chapter-05-rigid-body-dynamics",
+  "permalink": "/physics-simulation/chapter-05-rigid-body-dynamics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 2: Physics Simulation",
+    "permalink": "/physics-simulation/intro"
+  },
+  "next": {
+    "title": "Chapter 6: Sensor Simulation",
+    "permalink": "/physics-simulation/chapter-06-sensor-simulation"
+  }
+}

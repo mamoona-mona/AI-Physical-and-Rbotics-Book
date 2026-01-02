@@ -1,0 +1,26 @@
+{
+  "id": "physics-simulation/chapter-07-sim-to-real",
+  "title": "Chapter 7: Sim-to-Real Transfer",
+  "description": "Learning Objectives",
+  "source": "@site/docs/02-physics-simulation/chapter-07-sim-to-real.md",
+  "sourceDirName": "02-physics-simulation",
+  "slug": "/physics-simulation/chapter-07-sim-to-real",
+  "permalink": "/physics-simulation/chapter-07-sim-to-real",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 6: Sensor Simulation",
+    "permalink": "/physics-simulation/chapter-06-sensor-simulation"
+  },
+  "next": {
+    "title": "Chapter 8: Digital Twin Architecture",
+    "permalink": "/physics-simulation/chapter-08-digital-twin"
+  }
+}

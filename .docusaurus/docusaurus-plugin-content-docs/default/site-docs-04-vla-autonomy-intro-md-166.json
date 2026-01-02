@@ -1,0 +1,26 @@
+{
+  "id": "vla-autonomy/intro",
+  "title": "Module 4: VLA & Autonomy",
+  "description": "Master Vision-Language-Action models for autonomous humanoid robots.",
+  "source": "@site/docs/04-vla-autonomy/intro.md",
+  "sourceDirName": "04-vla-autonomy",
+  "slug": "/vla-autonomy/intro",
+  "permalink": "/vla-autonomy/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 11: VSLAM for Humanoids",
+    "permalink": "/isaac-sim/chapter-11-vslam"
+  },
+  "next": {
+    "title": "Chapter 12: LLM Task Planning",
+    "permalink": "/vla-autonomy/chapter-12-llm-planning"
+  }
+}

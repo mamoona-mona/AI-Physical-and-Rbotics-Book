@@ -1,0 +1,26 @@
+{
+  "id": "isaac-sim/intro",
+  "title": "Module 3: NVIDIA Isaac Sim",
+  "description": "Master NVIDIA Isaac Sim for physics-based simulation and computer vision.",
+  "source": "@site/docs/03-isaac-sim/intro.md",
+  "sourceDirName": "03-isaac-sim",
+  "slug": "/isaac-sim/intro",
+  "permalink": "/isaac-sim/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 8: Digital Twin Architecture",
+    "permalink": "/physics-simulation/chapter-08-digital-twin"
+  },
+  "next": {
+    "title": "Chapter 9: Isaac Sim ROS 2 Integration",
+    "permalink": "/isaac-sim/chapter-09-isaac-sim-basics"
+  }
+}
